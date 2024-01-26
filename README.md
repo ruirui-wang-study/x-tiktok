@@ -5,12 +5,7 @@
 
 ## Award
 
-<p align="center">
-  <img alt="超级码力奖" src="https://user-images.githubusercontent.com/39022409/226916716-ba2c06a0-7e86-4395-8f7f-03bcf5736950.png" width="40%">
-</p>
-<p align="center">
-  <img alt="优秀营员证书" src="https://raw.githubusercontent.com/zhicheng-ning/Pic-Go/main/md/image-20230328135251322.png" width="40%">
-</p>
+
 
 ## Video Demo
 
@@ -42,7 +37,7 @@
 
 | **团队成员**                                                 | **主要贡献**                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [@zhicheng-ning](https://github.com/zhicheng-ning)           | 队长，负责 GitHub 项目管理，定期会议同步，代码 review，基础设施搭建，视频模块、消息模块 |
+| [@zhicheng-ning](https://github.com/zhicheng-ning)           | 负责基础设施搭建，视频模块、消息模块 |
 | [@coder-zc](https://github.com/coder-zc)                     | 负责负责用户模块、评论模块、主要包括注册，登录，评论，删评，以及缓存和消息队列的优化 |
 | [@MR.XU](https://github.com/Xuuuuuuuuuuuu) [@dongzhengyu](https://github.com/dongzhengyu816) | 负责关注模块、主要包括关注，取关，关注列表，粉丝列表，好友列表，以及缓存和消息队列的优化 |
 | [@Jasmine](https://github.com/ruirui-wang-study)             | 负责点赞模块、主要包括点赞，取消点赞，获取点赞列表，以及缓存和消息队列的优化 |
